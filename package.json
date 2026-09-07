@@ -1,0 +1,14 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "this is my first server ",
+  "main": "index.js",
+  "scripts": {
+    "start": "server.js"
+  },
+  "author": "nishant kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
